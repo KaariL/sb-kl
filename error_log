@@ -1,0 +1,11 @@
+[06-Feb-2019 01:18:17 UTC] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home/kaarilandry/samuelboomer.kaarilandry.com/form.php on line 21
+[06-Feb-2019 01:20:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kaarilandry/samuelboomer.kaarilandry.com/form.php:4) in /home/kaarilandry/samuelboomer.kaarilandry.com/form.php on line 23
+[06-Feb-2019 01:23:41 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/kaarilandry/samuelboomer.kaarilandry.com/form.php on line 23
+[06-Feb-2019 01:24:54 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/kaarilandry/samuelboomer.kaarilandry.com/form.php on line 23
+[06-Feb-2019 02:00:01 UTC] PHP Parse error:  syntax error, unexpected '$who' (T_VARIABLE) in /home/kaarilandry/samuelboomer.kaarilandry.com/form.php on line 14
+[06-Feb-2019 02:00:50 UTC] PHP Parse error:  syntax error, unexpected '$who' (T_VARIABLE) in /home/kaarilandry/samuelboomer.kaarilandry.com/form.php on line 14
+[06-Feb-2019 02:09:34 UTC] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/kaarilandry/samuelboomer.kaarilandry.com/form.php on line 20
+[06-Feb-2019 02:18:36 UTC] PHP Parse error:  syntax error, unexpected '$who' (T_VARIABLE), expecting ',' or ';' in /home/kaarilandry/samuelboomer.kaarilandry.com/form.php on line 7
+[06-Feb-2019 02:19:37 UTC] PHP Parse error:  syntax error, unexpected '$who' (T_VARIABLE), expecting ',' or ';' in /home/kaarilandry/samuelboomer.kaarilandry.com/form.php on line 7
+[06-Feb-2019 02:57:30 UTC] PHP Parse error:  syntax error, unexpected 'http' (T_STRING), expecting ',' or ';' in /home/kaarilandry/samuelboomer.kaarilandry.com/form.php on line 6
+[06-Feb-2019 02:58:11 UTC] PHP Parse error:  syntax error, unexpected 'http' (T_STRING), expecting ',' or ';' in /home/kaarilandry/samuelboomer.kaarilandry.com/form.php on line 6
